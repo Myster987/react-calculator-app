@@ -58,13 +58,25 @@ body {
     border-radius: 10rem;
 }
 
+.round-button:hover {
+    background-color: hsl(0, 0%, 35%);
+}
+
 .gray-btn {
     color: black;
     background-color: hsl(0, 0%, 60%);
 }
 
+.gray-btn:hover {
+    background-color: hsl(0, 0%, 45%);
+}
+
 .orange-btn {
     background-color: hsl(39, 82%, 51%);
+}
+
+.orange-btn {
+    background-color: hsl(39, 86%, 41%);
 }
 
 .calculator-input {
