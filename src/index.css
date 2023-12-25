@@ -75,7 +75,7 @@ body {
     background-color: hsl(39, 82%, 51%);
 }
 
-.orange-btn {
+.orange-btn:hover {
     background-color: hsl(39, 86%, 41%);
 }
 
